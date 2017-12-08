@@ -16,4 +16,8 @@ stackoverflow上Votes数排名靠前的部分问题整理
 13. [NSString的属性修饰符应该用copy还是strong(retain)？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/nsstring-property-copy-or-retain.md)
 14. [什么情况下使用NSInteger或者Int？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/when-to-use-nsinteger-vs-int.md)
 15. [UIView的frame, bounds, center？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/uiview-frame-bounds-and-center.md)
+16. [@private在Objective-C里是什么意思？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-does-private-mean-in-objective-c.md)
+17. [Objective-C属性修饰符(nonatomic, copy, strong, weak)？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/objective-c-declared-property-attributes-nonatomic-copy-strong-weak.md)
+18. [如何在NSUserDefaults里保存一个自定义对象？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-store-custom-objects-in-nsuserdefaults.md)
+
 

@@ -19,4 +19,4 @@ ___
 - `center = frame.origin + (bounds.size / 2.0)`
 - `frame.size = bounds.size`
 
-![img](/images/04.png)
+![img](/images/04.jpg)
