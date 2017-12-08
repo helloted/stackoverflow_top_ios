@@ -13,4 +13,7 @@ stackoverflow上Votes数排名靠前的部分问题整理
 10. [NSobject的+load +initialize分别做了什么？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/nsobject-load-and-initialize-what-do-they-do.md)
 11. [UIImageView的伸缩模式](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-scale-a-uiimageview-proportionally.md)
 12. [objectForKey和valueForKey有什么区别？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/difference-between-objectforkey-and-valueforkey.md)
+13. [NSString的属性修饰符应该用copy还是strong(retain)？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/nsstring-property-copy-or-retain.md)
+14. [什么情况下使用NSInteger或者Int？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/when-to-use-nsinteger-vs-int.md)
+15. [UIView的frame, bounds, center？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/uiview-frame-bounds-and-center.md)
 
