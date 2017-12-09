@@ -19,5 +19,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 16. [@private在Objective-C里是什么意思？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-does-private-mean-in-objective-c.md)
 17. [Objective-C属性修饰符(nonatomic, copy, strong, weak)？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/objective-c-declared-property-attributes-nonatomic-copy-strong-weak.md)
 18. [如何在NSUserDefaults里保存一个自定义对象？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-store-custom-objects-in-nsuserdefaults.md)
+19. [更改布局时如何用动画？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-do-i-animate-constraint-changes.md)
 
 
