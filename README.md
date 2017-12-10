@@ -24,5 +24,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 21. [UITableViewCell，如何滑动删除？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/uitableviewcell-show-delete-button-on-swipe.md)
 22. [NSOperation vs. GCD？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/nsoperation-vs-grand-central-dispatch.md)
 23. [选中UITableViewCell时动画更改高度](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/can-you-animate-a-height-change-on-a-uitableviewcell-when-selected.md)
+24. [如何隐藏UINavigationBar底部的线？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-hide-uinavigationbar-1px-bottom-line.md)
 
 
