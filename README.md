@@ -23,5 +23,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 20. [APP里如何使用自定义字体？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/can-i-embed-a-custom-font-in-an-iphone-application.md)
 21. [UITableViewCell，如何滑动删除？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/uitableviewcell-show-delete-button-on-swipe.md)
 22. [NSOperation vs. GCD？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/nsoperation-vs-grand-central-dispatch.md)
+23. [选中UITableViewCell时动画更改高度](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/can-you-animate-a-height-change-on-a-uitableviewcell-when-selected.md)
 
 
