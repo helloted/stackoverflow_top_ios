@@ -29,5 +29,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 26. [用NSURLSession发送一个POST请求](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/send-post-request-using-nsurlsession.md)
 27. [往ARC的Block传值一定要弱引用么](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/always-pass-weak-reference-of-self-into-block-in-arc.md)
 28. [NSMutableArray遍历移除的最好方式？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/best-way-to-remove-from-nsmutablearray-while-iterating.md)
+29. [查看存储在NSUserDefaults的值](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/easy-way-to-see-saved-nsuserdefaults.md)
 
 
