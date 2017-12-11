@@ -31,5 +31,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 28. [查看存储在NSUserDefaults的值](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/easy-way-to-see-saved-nsuserdefaults.md)
 29. [@synchronized是如何加锁/解锁？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-does-synchronized-lock-unlock-in-objective-c.md)
 30. [nil, NIL, NULL, NSNull的区别？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/difference-between-nil-nil-and-null-in-objective-c.md)
+31. [application几种状态](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/applicationwillenterforeground-vs-applicationdidbecomeactive-applicationwillre.md)
 
 
