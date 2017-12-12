@@ -33,5 +33,8 @@ stackoverflow上Votes数排名靠前的部分问题整理
 30. [nil, NIL, NULL, NSNull的区别？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/difference-between-nil-nil-and-null-in-objective-c.md)
 31. [application几种状态](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/applicationwillenterforeground-vs-applicationdidbecomeactive-applicationwillre.md)
 32. [@try - catch block](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/try-catch-block-in-objective-c.md)
+33. [旋转图片](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-rotate-a-uiimage-90-degrees.md)
+34. [Objective-C声明常量的最好方式](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-is-the-best-way-to-create-constants-in-objective-c.md)
+35. [Objective-C里类型大小](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/types-in-objective-c-on-iphone.md)
 
 
