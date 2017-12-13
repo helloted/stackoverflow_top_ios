@@ -37,5 +37,7 @@ stackoverflow上Votes数排名靠前的部分问题整理
 34. [Objective-C声明常量的最好方式](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-is-the-best-way-to-create-constants-in-objective-c.md)
 35. [Objective-C里类型大小](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/types-in-objective-c-on-iphone.md)
 36. [检测iOS APP是否在后台](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/check-if-ios-app-is-in-background.md)
+37. [去除UIButton修改标题时的动画效果](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-stop-unwanted-uibutton-animation-on-title-change.md)
+38. [如何使UIButton的图片和文字都居中？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/uibutton-how-to-center-an-image-and-a-text-using-imageedgeinsets-and-titleedgei.md)
 
 
