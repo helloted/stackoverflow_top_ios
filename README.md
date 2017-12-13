@@ -39,5 +39,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 36. [检测iOS APP是否在后台](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/check-if-ios-app-is-in-background.md)
 37. [去除UIButton修改标题时的动画效果](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-stop-unwanted-uibutton-animation-on-title-change.md)
 38. [如何使UIButton的图片和文字都居中？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/uibutton-how-to-center-an-image-and-a-text-using-imageedgeinsets-and-titleedgei.md)
+39. [计算两个NSDate之间的天数？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/number-of-days-between-two-nsdates.md)
 
 
