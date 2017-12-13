@@ -36,5 +36,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 33. [旋转图片](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-rotate-a-uiimage-90-degrees.md)
 34. [Objective-C声明常量的最好方式](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-is-the-best-way-to-create-constants-in-objective-c.md)
 35. [Objective-C里类型大小](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/types-in-objective-c-on-iphone.md)
+36. [检测iOS APP是否在后台](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/check-if-ios-app-is-in-background.md)
 
 
