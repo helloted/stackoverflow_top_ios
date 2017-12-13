@@ -44,5 +44,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 41. [设备唯一标识/MAC地址](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-can-i-programmatically-get-the-mac-address-of-an-iphone.md)
 42. [数组去重](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/the-best-way-to-remove-duplicate-values-from-nsmutablearray-in-objective-c.md)
 43. [loadView和viewDidLoad](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/iphone-sdk-what-is-the-difference-between-loadview-and-viewdidload.md)
+44. [Block作为参数传递](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/objective-c-pass-block-as-parameter.md)
 
 
