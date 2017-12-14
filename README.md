@@ -50,6 +50,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 47. [NSArray的深拷贝](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/deep-copying-an-nsarray.md)
 48. [UITableView填满分割线](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-set-the-full-width-of-separator-in-uitableview.md)
 49. [performSelector: vs. method](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/using-performselector-vs-just-calling-the-method.md)
-50. [取消performSelector:afterDelay](https://github.com/helloted/stackoverflow_top_ios/blob/master/cancelling-queued-performselectorafterdelay-calls.md)
+50. [取消performSelector:afterDelay](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/cancelling-queued-performselectorafterdelay-calls.md)
 
 
