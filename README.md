@@ -46,5 +46,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 43. [loadView和viewDidLoad](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/iphone-sdk-what-is-the-difference-between-loadview-and-viewdidload.md)
 44. [Block作为参数传递](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/objective-c-pass-block-as-parameter.md)
 45. [UIColor进行比较](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-compare-uicolors.md)
+46. [如何使用NSCache?](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-use-nscache.md)
 
 
