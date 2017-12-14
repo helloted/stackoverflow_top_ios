@@ -47,5 +47,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 44. [Block作为参数传递](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/objective-c-pass-block-as-parameter.md)
 45. [UIColor进行比较](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-compare-uicolors.md)
 46. [如何使用NSCache?](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-use-nscache.md)
+47. [NSArray的深拷贝](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/deep-copying-an-nsarray.md)
 
 
