@@ -55,5 +55,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 52. [获取APP的版本信息](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/ios-app-programmatically-get-build-version.md)
 53. [NSNotificationCenter传递对象](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-pass-object-with-nsnotificationcenter.md)
 54. [NSSet vs. NSArray](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/when-is-it-better-to-use-an-nsset-over-an-nsarray.md)
+55. [UILabel嵌入小图片](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-embed-small-icon-in-uilabel.md)
 
 
