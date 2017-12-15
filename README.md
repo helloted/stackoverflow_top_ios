@@ -51,5 +51,7 @@ stackoverflow上Votes数排名靠前的部分问题整理
 48. [UITableView填满分割线](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-set-the-full-width-of-separator-in-uitableview.md)
 49. [performSelector: vs. method](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/using-performselector-vs-just-calling-the-method.md)
 50. [取消performSelector:afterDelay](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/cancelling-queued-performselectorafterdelay-calls.md)
+51. [NSURL里的部分信息](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/get-parts-of-a-nsurl-in-objective-c.md)
+52. [获取APP的版本信息](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/ios-app-programmatically-get-build-version.md)
 
 
