@@ -57,5 +57,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 54. [NSSet vs. NSArray](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/when-is-it-better-to-use-an-nsset-over-an-nsarray.md)
 55. [UILabel嵌入小图片](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-embed-small-icon-in-uilabel.md)
 56. [16进制的UIColor](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-can-i-create-a-uicolor-from-a-hex-string.md)
+57. [如何判断UIViewController的View是否可见](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-tell-if-uiviewcontrollers-view-is-visible.md)
 
 
