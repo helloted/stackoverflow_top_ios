@@ -56,5 +56,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 53. [NSNotificationCenter传递对象](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-pass-object-with-nsnotificationcenter.md)
 54. [NSSet vs. NSArray](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/when-is-it-better-to-use-an-nsset-over-an-nsarray.md)
 55. [UILabel嵌入小图片](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-embed-small-icon-in-uilabel.md)
+56. [16进制的UIColor](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-can-i-create-a-uicolor-from-a-hex-string.md)
 
 
