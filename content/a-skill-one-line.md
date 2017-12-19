@@ -18,3 +18,24 @@ BOOL isFisrt =  [myTextField isFirstResponder]
 ```
 NSString *stringWithoutSpaces = [myString stringByReplacingOccurrencesOfString:@" " withString:@""];
 ```
+
+4、最顶层加一个View
+
+```
+[[[UIApplication sharedApplication] keyWindow] addSubview:someView]
+```
+
+5、判断一个时间在另外两个时间之间？
+
+```
++ (BOOL)date:(NSDate*)date isBetweenDate:(NSDate*)beginDate andDate:(NSDate*)endDate
+{
+    if ([date compare:beginDate] == NSOrderedAscending)
+        return NO;
+
+    if ([date compare:endDate] == NSOrderedDescending) 
+        return NO;
+
+    return YES;
+}
+```
