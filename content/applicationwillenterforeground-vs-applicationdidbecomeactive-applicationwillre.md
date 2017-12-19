@@ -45,3 +45,5 @@ ___
 - 你有 5s的时间来处理事件直到方法返回
   - 如果你没有返回-app在5s内被终止
   - 你可以申请更多的时间通过调用 `beginBackgroundTaskWithExpirationHandler:`
+
+![img](/images/13.png)

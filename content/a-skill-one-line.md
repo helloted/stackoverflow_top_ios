@@ -25,17 +25,5 @@ NSString *stringWithoutSpaces = [myString stringByReplacingOccurrencesOfString:@
 [[[UIApplication sharedApplication] keyWindow] addSubview:someView]
 ```
 
-5、判断一个时间在另外两个时间之间？
 
-```
-+ (BOOL)date:(NSDate*)date isBetweenDate:(NSDate*)beginDate andDate:(NSDate*)endDate
-{
-    if ([date compare:beginDate] == NSOrderedAscending)
-        return NO;
 
-    if ([date compare:endDate] == NSOrderedDescending) 
-        return NO;
-
-    return YES;
-}
-```

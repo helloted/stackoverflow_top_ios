@@ -1,4 +1,5 @@
 # stackoverflow_top_ios
+![img](/images/14.png)
 stackoverflow上Votes数排名靠前的部分问题整理
 
 1. [一行代码了事](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/a-skill-one-line.md)
