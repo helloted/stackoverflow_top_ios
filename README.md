@@ -70,5 +70,7 @@ stackoverflow上Votes数排名靠前的部分问题整理
 66. [判断一个时间在另外两个时间之间](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-check-if-an-nsdate-occurs-between-two-other-nsdates.md)
 67. [什么是僵尸对象?](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-is-nszombie.md)
 68. [APNs的Token创建后会更新吗?](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/does-the-apns-device-token-ever-change-once-created.md)
+69. [创建一个Selectors的数组](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-create-an-array-of-selectors.md)
+70. [数组存储结构体](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/whats-the-best-way-to-put-a-c-struct-in-an-nsarray.md)
 
 
