@@ -19,6 +19,12 @@ atomic并没有确保线程安全，如果线程A在调用getter取值的同时�
 
 一个属性的atomicity同样无法确保线程安全当需要依赖多个属性时。
 
+[苹果官方文档举例](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/EncapsulatingData/EncapsulatingData.html#//apple_ref/doc/uid/TP40011210-CH5-SW1)
+
+> **Note:** Property atomicity is not synonymous with an object’s *thread safety*.Consider an `XYZPerson` object in which both a person’s first and last names are changed using atomic accessors from one thread. If another thread accesses both names at the same time, the atomic getter methods will return complete strings (without crashing), but there’s no guarantee that those values will be the right names relative to each other. If the first name is accessed before the change, but the last name is accessed after the change, you’ll end up with an inconsistent, mismatched pair of names.This example is quite simple, but the problem of thread safety becomes much more complex when considered across a network of related objects. Thread safety is covered in more detail in *Concurrency Programming Guide*.
+
+如果fullName=firstName+lastName；则不能保证fullName的线性安全。
+
 ___
 
 

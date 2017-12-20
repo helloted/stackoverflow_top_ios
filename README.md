@@ -72,5 +72,7 @@ stackoverflow上Votes数排名靠前的部分问题整理
 68. [APNs的Token创建后会更新吗?](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/does-the-apns-device-token-ever-change-once-created.md)
 69. [创建一个Selectors的数组](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-create-an-array-of-selectors.md)
 70. [数组存储结构体](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/whats-the-best-way-to-put-a-c-struct-in-an-nsarray.md)
+71. [实例变量(iVar)与属性(property)的区别](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-is-the-difference-between-ivars-and-properties-in-objective-c.md)
+72. [Method vs. selector vs. IMP](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/whats-the-difference-between-a-method-and-a-selector.md)
 
 
