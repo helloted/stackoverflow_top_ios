@@ -75,5 +75,7 @@ stackoverflow上Votes数排名靠前的部分问题整理
 71. [实例变量(iVar)与属性(property)的区别](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-is-the-difference-between-ivars-and-properties-in-objective-c.md)
 72. [Method vs. selector vs. IMP](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/whats-the-difference-between-a-method-and-a-selector.md)
 73. [JSON字符串里的null处理](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/checking-a-null-value-in-objective-c-that-has-been-returned-from-a-json-string.md)
+74. [Objective-C: Assertion vs. Exception vs. Error](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/objective-c-assertion-vs-exception-vs-error.md)
+75. [字符串常量作为key](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/using-a-constant-nsstring-as-the-key-for-nsuserdefaults.md)
 
 
