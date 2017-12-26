@@ -25,5 +25,15 @@ NSString *stringWithoutSpaces = [myString stringByReplacingOccurrencesOfString:@
 [[[UIApplication sharedApplication] keyWindow] addSubview:someView]
 ```
 
+5、字典拼接
 
+```
+[NSMutableDictionary addEntriesFromDictionary:otherDict]
+```
+
+6、获取毫秒时间戳
+
+```
+CFAbsoluteTime timeInSeconds = CFAbsoluteTimeGetCurrent();
+```
 
