@@ -37,3 +37,9 @@ NSString *stringWithoutSpaces = [myString stringByReplacingOccurrencesOfString:@
 CFAbsoluteTime timeInSeconds = CFAbsoluteTimeGetCurrent();
 ```
 
+7、模拟器沙盒路径
+
+```
+po NSHomeDirectory();
+```
+
