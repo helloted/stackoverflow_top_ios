@@ -81,5 +81,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 77. [获取UITableViewCell的UITableView](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-get-uitableview-from-uitableviewcell.md)
 78. [字符串部分粗体](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/any-way-to-bold-part-of-a-nsstring.md)
 79. [画图并导出沙盒](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/draw-color-export-image.md)
+80. [捕获异常](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/catch-exception.md)
 
 
