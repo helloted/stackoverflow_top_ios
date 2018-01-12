@@ -32,16 +32,3 @@ ___
 
 调用dispatch_sync在当前队列会导致死锁。另外，最优化处理，dispatch_sync在在当前线程上执行block
 
-> 2
-
-```objc
-        dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
-            dispatch_sync(dispatch_get_main_queue(), ^{
-                NSLog(@"is main thread? %i", (int)[NSThread isMainThread]);
-            });
-        });
-        
-        dispatch_main();
-```
-
-打印内容为非主线程。
