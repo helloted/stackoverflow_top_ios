@@ -86,5 +86,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 82. [Dispatch_sync](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/dispatch-sync-always-scheduling-a-block-on-main-thread.md)
 83. [autorelease和release有什么区别？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-is-the-difference-between-releasing-and-autoreleasing.md)
 84. [Swizzle 类方法](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-swizzle-a-class-method-on-ios.md)
+85. [如何objc_setAssociatedObject关联weak属性](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/using-objc-setassociatedobject-with-weak-references.md)
 
 
