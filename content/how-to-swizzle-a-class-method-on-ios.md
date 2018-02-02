@@ -56,20 +56,9 @@ Method class_getClassMethod(Class cls, SEL sel)
 
 实际上还是调用的`class_getInstanceMethod`,只是这个类变成了元类
 
-所以，用`class_getInstanceMethod`也可以获取到类方法，
+所以，用`class_getInstanceMethod`也可以获取到类方法，在调用swizzlingMethod时，传入元类；
 
-```objective-c
-static void SwizzleMethod(Class cls, SEL ori, SEL rep) {
-    Method oriMethod = class_getInstanceMethod([cls class], ori);
-    Method repMethod = class_getInstanceMethod([cls class], rep);
-
-    BOOL flag = class_addMethod(cls, ori, method_getImplementation(repMethod), method_getTypeEncoding(repMethod));
-
-    if (flag) {
-        class_replaceMethod(cls, rep, method_getImplementation(oriMethod), method_getTypeEncoding(oriMethod));
-    } else {
-        method_exchangeImplementations(oriMethod, repMethod);
-    }
-}
+```objc
+SwizzleMethod(object_getClass([Foo class]), @selector(bar), @selector(swz_bar));
 ```
 
