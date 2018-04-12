@@ -27,14 +27,7 @@ ___
 - 优化TCP socket参数，包括：是否关闭快速回收、初始RTO、初始拥塞窗口、socket缓存大小、Delay-ACK、Selective-ACK、TCP_CORK、拥塞算法。
 - 复用连接
 
-> 三、ARC MRC下Block的区别
-
-Block有三种Block:NSConcreteGlobalBlock, NSConcreteStackBlock，NSConcreteMallocBlock
-
-- MRC情况：需要手动copy到堆中，也就是NSConcreteStackBlock> NSConcreteMallocBlock
-- ARC情况：copy修饰NSConcreteStackBlock，会自动NSConcreteStackBlock> NSConcreteMallocBlock，也就是说，ARC下Block实际使用时只有NSConcreteGlobalBlock，NSConcreteMallocBlock两种
-
-> 四、启动优化
+> 三、启动优化
 
 1、为什么合并第三方库可以加载更快？
 
@@ -49,3 +42,11 @@ dylib loading载入动态库阶段，这个过程中，会去装载app使用的�
 2)、用户数据需要在广告显示完成以后使用, 所以需要伴随广告页启动。
 
 3)、比如分享业务, 肯定是用户能看到真正的主界面以后才需要启动, 所以推迟到主界面加载完成以后启动, 只需要将代码放到方法里。
+
+> 四、ARC MRC下Block的区别
+
+Block有三种Block:NSConcreteGlobalBlock, NSConcreteStackBlock，NSConcreteMallocBlock
+
+- MRC情况：需要手动copy到堆中，也就是NSConcreteStackBlock> NSConcreteMallocBlock
+- ARC情况：copy修饰NSConcreteStackBlock，会自动NSConcreteStackBlock> NSConcreteMallocBlock，也就是说，ARC下Block实际使用时只有NSConcreteGlobalBlock，NSConcreteMallocBlock两种
+
