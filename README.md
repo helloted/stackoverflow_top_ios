@@ -88,5 +88,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 84. [Swizzle 类方法](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/how-to-swizzle-a-class-method-on-ios.md)
 85. [如何objc_setAssociatedObject关联weak属性](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/using-objc-setassociatedobject-with-weak-references.md)
 86. [几道题目](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/some-questions.md)
+87. [id类型](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-is-the-meaning-of-id.md)
 
 
