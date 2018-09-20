@@ -43,3 +43,9 @@ CFAbsoluteTime timeInSeconds = CFAbsoluteTimeGetCurrent();
 po NSHomeDirectory();
 ```
 
+8、旋转
+
+```c++
+[myView setTransform:CGAffineTransformMakeRotation(-M_PI / 2)];
+```
+
