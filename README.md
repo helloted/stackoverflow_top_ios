@@ -92,5 +92,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 88. [几道题目](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/some-questions.md)
 89. [id类型](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-is-the-meaning-of-id.md)
 90. [Xcode重复出现多个模拟器的处理方法](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/duplicate-simulators.md)
+91. [字典数组的排序？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/best-way-to-sort-an-nsarray-of-nsdictionary-objects.md)
 
 
