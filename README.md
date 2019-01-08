@@ -94,5 +94,6 @@ stackoverflow上Votes数排名靠前的部分问题整理
 90. [id类型](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/what-is-the-meaning-of-id.md)
 91. [Xcode重复出现多个模拟器的处理方法](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/duplicate-simulators.md)
 92. [字典数组的排序？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/best-way-to-sort-an-nsarray-of-nsdictionary-objects.md)
+93. [UINavigationController在pushViewController时卡顿？](https://github.com/helloted/stackoverflow_top_ios/blob/master/content/push-viewcontroller-slow.md)
 
 
